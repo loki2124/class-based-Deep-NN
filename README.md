@@ -5,4 +5,4 @@ Most of the ideas of this implementation has been taken from Andrew Ng's course 
 hyperparameter values are all the same as in the course. 
 
 Use the following command to run-
->>python DeepNN.py
+python src/DeepNN.py
